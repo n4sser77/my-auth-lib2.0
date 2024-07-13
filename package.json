@@ -1,7 +1,7 @@
 {
   "name": "nodepractice",
   "version": "1.0.0",
-  "description": "Practice env for node.js",
+  "description": "Auth liv for node.js",
   "main": "main.js",
   "type": "module",
   "scripts": {

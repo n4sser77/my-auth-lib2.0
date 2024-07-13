@@ -3,6 +3,7 @@ import fs from 'fs';
 
 /**
  * Users store array
+ *  import or write function to fetch and connect to database
  */
 export let users = [];
 
