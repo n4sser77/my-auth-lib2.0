@@ -1,0 +1,13 @@
+{
+  "name": "nodepractice",
+  "version": "1.0.0",
+  "description": "Practice env for node.js",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Naser",
+  "license": "ISC",
+  "keywords": []
+}
