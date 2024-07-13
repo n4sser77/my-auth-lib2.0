@@ -141,7 +141,7 @@ export function saveUsers(users) {
 }
 ```
 
-This approach ensures that user data persists across application restarts.
+This approach ensures that user data persists across application restarts. In local env, for production its better to use a more scalable solution such as a database.
 
 ## Example
 
