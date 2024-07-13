@@ -2,7 +2,7 @@
 
 # Auth Library
 
-This library provides basic authentication functionality including user registration, login, and token-based authentication. User data is stored in a local JSON file. A very basic but easier to implent then the earlier auth library.
+This library provides basic authentication functionality including user registration, login, and token-based authentication. User data is stored in a local JSON file. A very basic but easier to implement then the earlier auth library.
 
 You can adjust it to store user data in database instead.
 
